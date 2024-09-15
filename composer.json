@@ -1,7 +1,7 @@
 {
     "name": "jhoopmann/mime-type-extension",
     "version": "1.0.0",
-    "description": "apache mime type file parser",
+    "description": "mime types file parser",
     "type": "library",
     "require": {
         "php": ">=8.3"
